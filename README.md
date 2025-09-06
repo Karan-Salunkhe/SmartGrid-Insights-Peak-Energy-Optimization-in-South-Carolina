@@ -58,7 +58,8 @@ Developed as part of **IST 687 - Introduction to Data Science**, this project le
 
 **Example Visualizations:**  
 
-![Insulation EDA](Files/insulation_data_eda.png)  
+<img width="1056" height="818" alt="image" src="https://github.com/user-attachments/assets/469ff3d2-8ba8-4169-8e78-81a32c5ca963" />
+
 *EDA reveals insulation and home characteristics affecting energy consumption*  
 
 ![Heating Energy Comparison](Files/Heating_Energy_Comparison.png)  
