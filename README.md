@@ -58,14 +58,14 @@ Developed as part of **IST 687 - Introduction to Data Science**, this project le
 
 **Example Visualizations:**  
 
-![Energy Consumption vs Temperature](Files/Energy_vs_Temperature.png)  
-*Cooling energy spikes with rising temperatures*  
+![Insulation EDA](Files/insulation_data_eda.png)  
+*EDA reveals insulation and home characteristics affecting energy consumption*  
 
-![HVAC Impact on Energy Use](Files/HVAC_Impact.png)  
-*Homes with efficient HVAC systems consume less energy*  
+![Heating Energy Comparison](Files/Heating_Energy_Comparison.png)  
+*Comparison of predicted vs actual heating energy across homes*  
 
-![Predicted vs Actual Energy Use](Files/Predicted_vs_Actual.png)  
-*XGBoost predictions closely match actual consumption*  
+![Cooling Energy Comparison](Files/Cooling_Energy_Comparison.png)  
+*Cooling energy spikes during peak summer months and aligns with predictions*
 
 ---
 
